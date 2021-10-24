@@ -1,5 +1,6 @@
+<p align="center">
 ![Akalny](./Akalny.png)
-
+</p>
 In this project I have implemented a Food Order App by using **React.js**. I used the React Components, Props, Hooks, State management tools, Portals, CSS modules and many other features that I've learned so far.
 
 The App allows you to choose from the available meals in the list and add them to the cart. You can also choose the amount of meals that you want and have the price always updated.
