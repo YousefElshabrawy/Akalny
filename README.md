@@ -1,5 +1,5 @@
 <p align="center">
-![Akalny](./Akalny.png)
+  <img src="./Akalny.png" />
 </p>
 In this project I have implemented a Food Order App by using **React.js**. I used the React Components, Props, Hooks, State management tools, Portals, CSS modules and many other features that I've learned so far.
 
